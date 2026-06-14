@@ -1,0 +1,15 @@
+{
+ "photorealism": 4,
+ "product_fidelity": 3,
+ "brand_fit": 4,
+ "lighting_composition": 5,
+ "ad_usability": 3,
+ "hard_fails": [
+  "warped product details (AI artifacts on outlet holes)"
+ ],
+ "biggest_issue": "No packshot was provided to verify the product, and the electrical outlet exhibits clear AI warping on the plug holes.",
+ "fix": "Inpainting -> redraw the electrical outlet to have accurate, standard plug holes.",
+ "verdict": "FAIL",
+ "total": 3.8,
+ "model": "google/gemini-3.1-pro-preview"
+}

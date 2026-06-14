@@ -1,0 +1,13 @@
+{
+ "photorealism": 5,
+ "product_fidelity": 3,
+ "brand_fit": 5,
+ "lighting_composition": 5,
+ "ad_usability": 5,
+ "hard_fails": [],
+ "biggest_issue": "No packshot provided to verify the design of the brass sconces.",
+ "fix": "Provide a reference packshot to verify product fidelity.",
+ "verdict": "FAIL",
+ "total": 4.6,
+ "model": "google/gemini-3.1-pro-preview"
+}

@@ -1,0 +1,15 @@
+{
+ "photorealism": 4.5,
+ "product_fidelity": 3,
+ "brand_fit": 2,
+ "lighting_composition": 4.5,
+ "ad_usability": 2,
+ "hard_fails": [
+  "banned-list hit: fixture OFF in hero shot"
+ ],
+ "biggest_issue": "The faucet is turned off, which is a direct violation of the banned list for hero shots.",
+ "fix": "image2image + render water flowing from the faucet spout",
+ "verdict": "FAIL",
+ "total": 3.2,
+ "model": "google/gemini-3.1-pro-preview"
+}

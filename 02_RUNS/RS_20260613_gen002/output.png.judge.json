@@ -1,0 +1,13 @@
+{
+ "photorealism": 5,
+ "product_fidelity": 3,
+ "brand_fit": 5,
+ "lighting_composition": 5,
+ "ad_usability": 5,
+ "hard_fails": [],
+ "biggest_issue": "No packshot provided to verify the hero chandelier's accuracy, capping product fidelity at 3.",
+ "fix": "image_reference + upload the exact packshot of the chandelier to ensure 1:1 fidelity.",
+ "verdict": "FAIL",
+ "total": 4.6,
+ "model": "google/gemini-3.1-pro-preview"
+}
